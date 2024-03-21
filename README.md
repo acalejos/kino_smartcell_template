@@ -32,11 +32,12 @@ For an example of a project built using this template, you can refer to [Merquer
 
 ## Usage
 
-1. Clone this repo
-2. Change all references to `kino_smartcell_template` and `KinoSmartCellTemplate` to your application's name
-3. From within the `lib/assets` directory run `npm i` to install dependencies.
+1. Create a new repo from this template as shown [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)
+1. Clone a local copy
+1. Change all references to `kino_smartcell_template` and `KinoSmartCellTemplate` to your application's name
+1. From within the `lib/assets` directory run `npm i` to install dependencies.
     1. Optionally add any plugins or other dependencies you need
-4. From within `lib/assets` run `npm run dev` to start a watchful Vite build. Now when you make changes they will
+1. From within `lib/assets` run `npm run dev` to start a watchful Vite build. Now when you make changes they will
 automatically be rebuilt by Vite. **Note that you will still need to reload the smart cell from Livebook to register the changes to the build**
 
 ## Building for Release
