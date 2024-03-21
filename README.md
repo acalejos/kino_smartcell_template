@@ -1,5 +1,7 @@
 # KinoSmartcellTemplate
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/ac_alejos?style=social)](https://twitter.com/ac_alejos)
+
 This is a template project for making an [Elixir Kino Smart Cell](https://hexdocs.pm/kino/Kino.SmartCell.html) module for use in [Livebook](https://livebook.dev/). Uses the following stack:
 
 * [Vite](https://vitejs.dev/) as the build system
