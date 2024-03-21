@@ -1,7 +1,7 @@
 defmodule KinoSmartcellTemplate do
   @moduledoc false
 
-  # Your assets_path should be the same as
+  # Your assets_path should be the same as you define in assets/vite.config.js
   use Kino.JS, assets_path: "assets/build"
   use Kino.JS.Live
   use Kino.SmartCell, name: "Kino Smart Cell Template"
